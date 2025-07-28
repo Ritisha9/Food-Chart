@@ -1,3 +1,3 @@
 # Food-Chart
 Weekly Food Chart Monday to Friday
-food-chart.md
+[📊 View the Weekly Food Chart](food-chart.md)
